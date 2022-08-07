@@ -349,16 +349,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-LinhTinh/
-WebChuoiThongMinh/WebChuoiThongMinh/Web.config
-WebChuoiThongMinh/WebChuoiThongMinh/WebChuoiThongMinh.csproj
-WebChuoiThongMinh/WebChuoiThongMinh/WebChuoiThongMinh.Designer.cs
-WebChuoiThongMinh/WebChuoiThongMinh/WebChuoiThongMinh.edmx
-WebChuoiThongMinh/WebChuoiThongMinh/packages.config
-Mood/packages.config
-Mood/Mood.csproj
-Mood/App.config
-CommomSentMail/CommomSentMail.csproj
-BaiTapLon/Webbanhang.csproj
-BaiTapLon/Web.config
+ 
  
